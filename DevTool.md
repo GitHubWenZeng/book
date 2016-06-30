@@ -18,4 +18,4 @@
 	SiteSucker              :
 	Transmit2               :ftp
 ####
-	bower,npm,tree,git
+	bower,npm,tree,git,brew,grunt
