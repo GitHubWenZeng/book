@@ -1,0 +1,95 @@
+# 重要—复习资料
+
+
+Java基础
+
+[Java并发编程-无锁CAS与Unsafe类及其并发包Atomic - CSDN博客](http://blog.csdn.net/javazejian/article/details/72772470)
+
+[Java7/8 中的 HashMap 和 ConcurrentHashMap 全解析](https://javadoop.com/post/hashmap)
+
+[Java7/8 中的 HashMap 和 ConcurrentHashMap 全解析 - ImportNew](http://www.importnew.com/28263.html)
+
+[Java7/8 中的 HashMap 和 ConcurrentHashMap 全解析](https://javadoop.com/post/hashmap#toc1)
+---
+Java虚拟机
+
+[JVM内幕：Java虚拟机详解 - ImportNew](http://www.importnew.com/17770.html)
+
+[Java JVM 运行机制及基本原理](https://zhuanlan.zhihu.com/p/25713880)
+
+[深入理解Java虚拟机—学习感悟以及笔记 - 大魔王先生 - 博客园](https://www.cnblogs.com/wtzbk/p/7985156.html)
+
+[JDK8-废弃永久代（PermGen）迎来元空间（Metaspace） - 只会一点java - 博客园](https://www.cnblogs.com/dennyzhangdd/p/6770188.html)
+
+[GC算法 垃圾收集器（包括CMS收集） - CSDN博客](https://blog.csdn.net/a724888/article/details/60871077)
+
+[jvm面试 并发收集器 CMS(Concurrent Mark-Sweep) - CSDN博客](https://blog.csdn.net/wfh6732/article/details/57490195)
+
+[深入理解 Java G1 垃圾收集器 - 文章 - 伯乐在线](http://blog.jobbole.com/109170/)
+
+[深入JVM之G1收集器 - CSDN博客](https://blog.csdn.net/qq_34280276/article/details/52863551)
+---
+数据库优化&锁&索引
+[MySQL高级-索引优化 - IT-執念 - 博客园](https://www.cnblogs.com/zhaobingqing/p/7071331.html)
+
+[聚簇索引和二级索引 - 简书](https://www.jianshu.com/p/23524cc57ca4)
+
+[数据库索引为什么使用B+树？ - 简书](https://www.jianshu.com/p/4dbbaaa200c4)
+
+[MySQL性能管理及架构设计：SQL查询优化、分库分表-龙果学院](http://www.roncoo.com/article/detail/132454)
+
+[MySQL性能管理及架构设计（一）：什么影响了数据库查询速度、什么影响了MySQL性能 - 唐成勇 - SegmentFault 思否](https://segmentfault.com/a/1190000013672421)
+
+[MySQL性能管理及架构设计（二）：数据库结构优化、高可用架构设计、数据库索引优化 - 唐成勇 - SegmentFault 思否](https://segmentfault.com/a/1190000013746118)
+
+[MySQL性能管理及架构设计（三）：SQL查询优化、分库分表 - 完结篇 - 唐成勇 - SegmentFault 思否](https://segmentfault.com/a/1190000013781544)
+
+[转mysql组合索引与字段顺序 - myLittleGarden - 博客园](http://www.cnblogs.com/sunada2005/p/4715366.html)
+
+[MySQL的InnoDB索引原理详解 - jimshi - 博客园](http://www.cnblogs.com/shijingxiang/articles/4743324.html)
+
+[CodingLabs - MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
+
+[MySQL索引失效的几种情况 - 邴越 - 博客园](http://www.cnblogs.com/binyue/p/4058931.html)
+
+[mysql索引 - 风吹屁股凉冰冰 - 博客园](http://www.cnblogs.com/dreamhome/archive/2013/04/16/3025304.html)
+
+[MyISAM和InnoDB的索引实现 - 立超的专栏 - 博客园](http://www.cnblogs.com/zlcxbb/p/5757245.html)
+
+[数据库索引原理及优化 - Jessica程序猿 - 博客园](https://www.cnblogs.com/wuchanming/p/6886020.html)
+---
+分库分表
+[表的垂直拆分和水平拆分 · Mysql设计与优化专题 · 看云](https://www.kancloud.cn/thinkphp/mysql-design-optimalize/39326)
+
+[大众点评订单系统分库分表实践 -](https://tech.meituan.com/dianping_order_db_sharding.html)
+
+[数据库分库分表策略的具体实现方案](https://mp.weixin.qq.com/s?__biz=MzI1NDQ3MjQxNA==&mid=2247483931&idx=1&sn=6eda41aa81c1243422a603205d2fad22&chksm=e9c5fbaadeb272bc92537803c14a6f55e1170b1a3b8f60160f66417800c0ace960dfe192717a#rd)
+
+[专栏：数据库分库分表(sharding) - CSDN博客](http://blog.csdn.net/column/details/sharding.html)
+---
+分布式事务
+[常用的分布式事务解决方案介绍有多少种？ - 知乎](https://www.zhihu.com/question/64921387/answer/225784480)
+
+[微服务架构的分布式事务解决方案-龙果学院](http://www.roncoo.com/article/detail/124243)
+
+[常用的分布式事务解决方案介绍-龙果学院](http://www.roncoo.com/article/detail/127500)
+---
+研发流程
+[在阿里，我们如何管理代码分支？](https://www.toutiao.com/a6538535186814992899/)
+
+[在阿里，我们如何管理代码分支？-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/573549)
+---
+平台技术
+[高并发系统中限流技术的应用场景](https://www.toutiao.com/i6535760642765226504/)
+---
+业务相关—>支付回调—>优惠平摊
+[PMCAFF社区 - PMCAFF产品经理社区 中国第一产品经理人气组织::专注于研究互联网产品](https://www.pmcaff.com/discuss/index/1000000000142845?sort_by=1)
+
+[秒杀系统架构优化思路-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/69704)
+
+业务相关
+领域驱动 DDD 是哈？
+	领域基础 -> 业务数据模型
+	领域模型 -> 业务核心流程
+
+	
