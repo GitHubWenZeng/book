@@ -1,18 +1,21 @@
 #### Dev Tools (Mac)
 	MacDown			:markdown
 	Typora			:markdown
-	iTerm2			:shell
+	omyzsh                  :命令行辅助(必备)
+	iTerm2			:shell(必备)
 	Gas mask		:host manager
-	Aifred			:search
-	Sequel Pro		:db
+	Helm		        :host manager
+	SwitchHosts		:host manager
+	Aifred			:search(必备)
+	Sequel Pro		:db(必备)
 	SourceTree		:git
 	Atom			:editor
 	Subliness		:editor
-	Gitbook Editor	:editor
-	iThoughtsX		:mind
-	MySQLWorkbench	:db
-	OmniGraffle		:diagram
-	OmniPlan		:plan diagram
+	Gitbook Editor		:editor（用的少）
+	iThoughtsX		:mind（用的少）
+	MySQLWorkbench		:db（用的少）
+	OmniGraffle		:diagram（必备）
+	OmniPlan		:plan diagram（必备）
 	Tunnelblick		:vpn
 	Lantern			:vpn
 	Charles			:web debugging proxy
